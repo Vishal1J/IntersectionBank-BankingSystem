@@ -17,4 +17,4 @@
 ### Flow of the website
 Home > View Customer > Select One Customer > Transfer Money > Select Receiver > View Customer
 
-Below are the screenshots of the website
+Checkout here:https://projectforsparks.000webhostapp.com/
